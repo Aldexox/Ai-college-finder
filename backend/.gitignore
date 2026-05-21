@@ -1,0 +1,6 @@
+node_modules/
+dist/
+build/
+.env
+oracledk-26/
+*.log
